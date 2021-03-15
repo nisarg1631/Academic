@@ -1,0 +1,5 @@
+Hamlet.txt 1
+invisible-man.txt 0
+moby-dick.txt 0
+romeo-julliet.txt 1
+uncle-tom.txt 0
